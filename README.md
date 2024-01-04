@@ -1,6 +1,7 @@
 ## Hello World! :wave:
-My name is Akeem Smith. I'm a full-stack web developer that's interested in everything web development. I'm always working on projects that broaden my skillset to consistently deliver the best web experiences to people.
+My name is Akeem Smith. I'm a Computer Science student aspiring to become a full-stack developer. I became interested in everything web development in my second year of college and ever since then, I have been dilligently working on projects, broadening my skillset, so that I can consistently deliver the best web experiences to people!
 
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,react,js,sass,css,html,php,mysql,py,git)](https://skillicons.dev)
 
 
