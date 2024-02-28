@@ -4,6 +4,6 @@ My name is Akeem Smith. I'm a Computer Science student aspiring to become a full
 ## Technologies I Know
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,react,js,sass,css,html,php,mysql,py,git)](https://skillicons.dev)
 
-
+## Contact Me
 You can reach me via my email address - asmith.339@outlook.com
 
