@@ -1,5 +1,6 @@
 ## Hello World! :wave:
-My name is Akeem Smith. I'm a Computer Science student at The University of the West Indies Cave Hill, aspiring to become a full-stack developer. I became interested in everything web development in my second year of college and ever since then, I have been dilligently working on projects to broaden my skillset so that I can consistently deliver the best web experiences to people!
+My name is Akeem Smith. I'm a Computer Science student at The University of the West Indies Cave Hill, aspiring to become a full-stack developer.
+I developed a keen interest in software development during my time at community college. Since then, I have been honing my skills through various projects. If you want to view these projects, this is the place!
 
 ## Technologies I Know
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,react,js,sass,css,html,php,mysql,py,git)](https://skillicons.dev)
