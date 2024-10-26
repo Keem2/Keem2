@@ -1,5 +1,5 @@
 # Hello World, I'm Akeem! 👨🏾‍💻
-**Aspiring Full-Stack Software Engineer | Car Enthusiast | Video Game Hobbyist**
+**Full-Stack Software Engineer | Car Enthusiast | Video Game Hobbyist**
 
 My journey in computer science began during my time at community college, where I discovered a passion for creating impactful digital solutions. Since then, I've been dedicated to honing my skills through a variety of projects so I can build software that can make someone's day at least a little better. 
 
